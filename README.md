@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26969070/README.md)
+[README.md](https://github.com/user-attachments/files/26969177/README.md)
 # Chromatic Aberration Studio
 
 Chromatic Aberration Studio is a browser-based image tool for adding adjustable chromatic aberration effects to uploaded images.
@@ -25,17 +25,6 @@ No build step, backend, or dependencies are required.
 - `index.html` - App layout
 - `styles.css` - Visual styling
 - `app.js` - Image processing, controls, loupe, and download logic
-
-## Deploying
-
-This is a static site and can be deployed on:
-
-- Netlify
-- GitHub Pages
-- Vercel
-- Any static web host
-
-For Netlify, use the project root as the publish directory and leave the build command blank.
 
 ## Notes
 
