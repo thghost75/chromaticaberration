@@ -238,6 +238,14 @@ input[type="range"] {
   background: #2b3039;
 }
 
+.copyright {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 0.78rem;
+  line-height: 1.35;
+  text-align: center;
+}
+
 .preview-panel {
   position: relative;
   min-height: 520px;
